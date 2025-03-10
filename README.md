@@ -3,7 +3,7 @@
 ## CUDA Backend Installation
 
 1. **Download the Release Binaries**
-   - Download the latest release binaries from the [ICICLE Releases](https://github.com/ingonyama-zk/icicle/releases/).
+   - Download the latest release binaries (v3.5) from the [ICICLE Releases](https://github.com/ingonyama-zk/icicle/releases/).
 
 2. **Install the Binaries**
    - Extract the downloaded binaries to a directory
